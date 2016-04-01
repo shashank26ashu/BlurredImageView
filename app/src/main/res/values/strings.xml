@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BlurredImageViewDemo</string>
+    <string name="title_activity_main">BlurredImageView Demo</string>
+</resources>
